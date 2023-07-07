@@ -8,7 +8,8 @@ This is a simple Students managemnet system develped using laravel,Mysql ,Ajax
 ## Installation
 
 #### 1. Download
-Download the files above and place on your server. 
+
+     git clone https://github.com/Madusankaperera95/StudentManagement
 
 #### 2. Environment Files
 This package ships with a .env.example file in the root of the project.
