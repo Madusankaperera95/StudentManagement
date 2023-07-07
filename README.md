@@ -4,6 +4,10 @@
 
 This is a simple Students managemnet system develped using laravel,Mysql ,Ajax
 
+## Requirements
+     PHP version: 8.0
+     MySQL
+     Laravel version: 9.x
 
 ## Installation
 
@@ -64,3 +68,7 @@ In here this will ask Username , email and Password.Note, When typing the passwo
 To Run the application
 
       php artisan serve
+
+## Resources Followed
+[https://www.positronx.io/laravel-ajax-example-tutorial/](https://www.positronx.io/laravel-ajax-example-tutorial/)
+[https://www.itsolutionstuff.com/post/laravel-many-to-many-eloquent-relationship-tutorialexample.html](https://www.itsolutionstuff.com/post/laravel-many-to-many-eloquent-relationship-tutorialexample.html)
