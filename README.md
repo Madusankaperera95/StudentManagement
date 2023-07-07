@@ -36,7 +36,10 @@ You must create your database on your server and on your .env file update the fo
 Change these lines to reflect your new database settings.
 
 #### 5. Artisan Commands
-.
+
+The first thing we are going to do is set the key that Laravel will use when doing encryption.
+
+        php artisan key:generate.
 
 We are going to run the built in migrations to create the database tables:
 
